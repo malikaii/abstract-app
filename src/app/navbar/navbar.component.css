@@ -1,0 +1,38 @@
+.nav-container {
+    background-color: #000000;
+    color: #fff;
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    justify-content: space-evenly;
+    /* flex-wrap: nowrap; */
+    /* width: 100%; */
+    /* font-size: 30px; */
+}
+
+.nav-items {
+    display: flex;
+    gap: 20px;
+}
+
+.nav-items > div > input, button {
+    /* height: 50px; */
+    padding: 15px;
+    border-radius: 8px;
+    border-style: none;
+    font-size: large;
+    /* color: #fff; */
+
+}
+
+.request > button{
+    background-color: #000000;
+    color: #fff;
+    border: solid #fff;
+}
+
+.login > button{
+    background-color: #4C5FD5;
+    color: #fff;
+}
+
