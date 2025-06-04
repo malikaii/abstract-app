@@ -1,6 +1,51 @@
 .footer-container {
-    /* margin-top: auto; */
-    height: 300px;
-    background-color: #000000;
-    color: #fff;
+  /* margin-top: auto; */
+  height: 400px;
+  background-color: #000000;
+  color: #fff;
+  display: flex;
+  justify-content: space-evenly;
 }
+
+.box {
+  /* background-color: #a99f9f; */
+  width: 200px;
+  padding: 10px;
+  /* font-size: 20px; */
+}
+
+
+.box > h3 {
+    font-size: 25px;
+}
+.box-2 {
+  /* background-color: #a99f9f; */
+  width: 300px;
+  align-self: center;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+
+/* 
+Company
+About Us
+Careers
+Legal
+Contact Us
+info@goabstract.com
+
+Community
+Twitter
+LinkedIn
+Facebook
+Dribbble
+Podcast
+
+Resources
+Blog
+Help Center
+Release Notes
+Status
+
+ */
